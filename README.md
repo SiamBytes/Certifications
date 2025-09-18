@@ -19,22 +19,23 @@ This repository showcases proof of my continuous learning and commitment to skil
 ## 🎓 Great Learning Certifications  
 
 ### 📌 Project Management Support  
-  ![Project Management Support Certificate](./project_management_support certificate_siam.jpg)  
-🔗 [View Verified Certificate]([https://www.hackerrank.com/certificates/5566a0e0346c](https://www.mygreatlearning.com/certificate/SAMTTNTE)) 
+![Project Management Support Certificate](./project_management_support_certificate_siam.jpg)  
+🔗 [View Verified Certificate](https://www.mygreatlearning.com/certificate/SAMTTNTE)  
+
 **Issued on:** Apr 2024  
 **Skills:** Project Management, Business Planning, Risk Analysis  
 
+---
+
 ### 🎥 Video Marketing  
-![Video Marketing Certificate](./video_marketing certificate_siam.jpg)  
-🔗 [View Verified Certificate]([https://www.hackerrank.com/certificates/5566a0e0346c](https://www.mygreatlearning.com/certificate/LLFPIVJZ))  
+![Video Marketing Certificate](./video_marketing_certificate_siam.jpg)  
+🔗 [View Verified Certificate](https://www.mygreatlearning.com/certificate/LLFPIVJZ)  
+
 **Issued on:** Apr 2024  
 **Skills:** Video Marketing, Social Media Strategy, Branding  
 
 ---
 
-
----
-
 ### 🔗 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/md-siam-hossain)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-siam-hossain)  
 - 🖥️ [GitHub](https://github.com/SiamBytes)  
